@@ -2,7 +2,7 @@
 Official repository of the Wix contest SEO Hero. 
 Here you can download a small dirty-quick handmade PHP script to get the top 10 live Google results for the keyword "seo hero".
 
-You can also visit the [seo hero](http://www.seo-zero.com) website.
+You can also visit the [seo hero website](http://www.seo-zero.com).
 
 ## Prerequisites
 
